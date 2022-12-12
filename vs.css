@@ -1,0 +1,133 @@
+@font-face {
+    font-family: roboto-black;
+    src: url(/fonts/Roboto-Black.ttf) format('truetype');
+}
+@font-face{
+    font-family: roboto-regular;
+    src: url(/fonts/Roboto-Regular.ttf)
+}
+@font-face {
+    font-family: roboto-medium;
+    src: url(/fonts/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: heebo-negrita;
+    src: url(/fonts/Heebo-ExtraBold.ttf);
+}
+@font-face {
+    font-family: roboto-cursiva;
+    src: url(/fonts/Roboto-LightItalic.ttf);
+}
+@font-face {
+    font-family: roboto-luz;
+    src: url(/fonts/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: robotoflex-regular;
+    src: url(/fonts/RobotoFlex-Regular.ttf);
+}
+body{
+    background-color: white;
+    display: flex;
+    border: 1px solid black;
+    width: 900px;
+    margin: auto;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img{
+   padding: 0px 10px 20px 10px; 
+}
+.pantalla{
+    background-color: #003d74;
+    border: 1px solid #003d74;
+    color: white;
+}
+.section{
+    font-family: heebo-negrita;
+    height: 20px;
+    padding: 10px 10px 14px 10px;
+    background-color: #00315d;
+    font-size:20px;
+    margin: auto;
+}
+.tt{
+    font-family: roboto-medium;
+    text-align: left;
+    font-size: 35px;
+    margin: 10px 10px 10px 10px;
+}
+.ex{
+    padding: 0px 0px 1px 20px;
+}
+.sec{
+    font-family: roboto-luz;
+    color: #003d74;
+    font-size: 20px;
+    padding: 5px 5px 5px 0px;
+    display: flex;
+    border-top: 1px solid rgb(0, 0, 0, 0.5);
+    border-bottom: 1px solid rgb(0, 0, 0, 0.5);
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bolder;
+}
+.ee{
+    font-family: roboto-medium;
+    padding: 0px 0px 0px 20px;
+
+}
+.exr{
+    display: flex;
+    margin: 0px 0px 0px 0px;
+      padding: 0px 0px 0px 20px;
+}
+.rr{
+    color: #2b2c2cb4;
+    padding: 0px 0px 0px 0px;
+    font-size: 13px;
+}
+.ex{
+    display: flex;
+    margin: 0px;
+}
+.r{
+    color: #2b2c2cb4;
+    font-size: 13px;
+    
+}
+div .exr{
+    margin: -20px -20px -20px 0px;
+    padding: 0px 0px 0px -20px;
+}
+.vv{
+
+    color:   #2b2c2cb4 ;
+    text-align: justify;
+    padding: 0px 0px 1px 0px ;
+    margin: 0px 35px 0px 20px;
+}
+.cc{
+    font-size: 15px;
+    padding: 0px 0px 0px 10px;
+}
+.bb{
+    font-family: roboto-cursiva;
+    padding: 0px 0px 0px 20px;
+}
+ul.b{
+    list-style-type: circle;
+    padding: 0px 0px 0px 100px;
+    margin: 0px;
+}
+div .ve{
+    display: flex;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 20px;
+}
+.section i{
+    margin: 5px;
+}
+.cc i{
+    margin: 1px;
+}
